@@ -8,4 +8,4 @@ Uses [DynamoDB Local](http://docs.aws.amazon.com/amazondynamodb/latest/developer
 
 ## License
 
-Apache 2.0 &copy; 2015 David Dollar
+Apache 2.0 &copy; 2015 Convox, Inc.
