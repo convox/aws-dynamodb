@@ -4,7 +4,7 @@ Uses [DynamoDB Local](http://docs.aws.amazon.com/amazondynamodb/latest/developer
 
 ## Usage
 
-    $ docker run -p 7777:7777 convox/aws-s3
+    $ docker run -p 7777:7777 convox/aws-dynamodb
 
 ## License
 
